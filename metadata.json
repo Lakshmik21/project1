@@ -1,0 +1,6 @@
+{
+  "name": "TaskMaster Dashboard",
+  "description": "A professional MERN-based task management dashboard with rich project velocity tracking, task status updates, priority filters, and dynamic search features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
